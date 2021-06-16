@@ -14,7 +14,7 @@ I’m Sammy Uyghur, Being meticulous in front end development with over 1.5 year
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miever1&show_icons=true&&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMiever1%2FMiever1%2F&count_bg=%23F03752&title_bg=%232B73AF&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Visitor+Counts&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMiever1%2FMiever1%2F&count_bg=%23F03752&title_bg=%232B73AF&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Visitor+Counts&edge_flat=false)](https://github.com/Miever1/)
 
 ### Github Repos
 
