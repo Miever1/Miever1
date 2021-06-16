@@ -19,9 +19,3 @@ I’m Sammy Uyghur, Being meticulous in front end development with over 1.5 year
 #### Finding Frinends
 
 🤔 I am currently working on my React component library and looking for like-minded friends to develop together. If you are interested, Come on！
-
-
-#### 📫 How to reach me:
-
-  * Email: 👉 miever1@163.com
-  * My Website: 👉 ![miever.net](https://miever.net)
