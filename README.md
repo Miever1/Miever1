@@ -21,11 +21,6 @@ I’m Sammy Uyghur, Being meticulous in front end development with over 1.5 year
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Miever1&repo=miever_components&show_owner=true)](https://github.com/Miever1/miever_components)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Miever1&repo=miever.net&show_owner=true)](https://github.com/Miever1/miever.net)
 
-### 💻 Most Used Language!
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miever1&show_icons=true&&theme=radical)
-<img src="https://github.com/Miever1/miever.net/blob/master/src/assets/images/coding.gif" width="350" align='right'>
-
 ### 👨‍💻 Languages and Tools
 
 <br />
