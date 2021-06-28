@@ -36,7 +36,7 @@ I’m Sammy Uyghur, Being meticulous in front end development with over 1.5 year
 ### 🤝🏻 Connect with Me
 
 <p>
-<a href="https://miever.net" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://miever.net-important?style=flat&logo=google-chrome&logoColor=success"></a>
+<a href="https://miever.net" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://miever.net-yellow?style=flat&logo=google-chrome&logoColor=red"></a>
 <a href="https://www.zhihu.com/people/miever" target="_blank"><img alt="知乎" src="https://img.shields.io/badge/知乎-https://www.zhihu.com/people/miever-blue?style=flat&logo=Zhihu&logoColor=lightgray"></a>
 <a href="mailto:miever1@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-miever1@163.com-green?style=flat&logo=gmail&logoColor=violet"></a>
 </p>
