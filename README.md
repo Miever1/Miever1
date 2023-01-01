@@ -1,23 +1,20 @@
 ### Welcome to Miever's github 🎉🎉🎉...
 
-I’m Sammy Uyghur, Being meticulous in front end development with over 2 years of front-end experience. In GitHub, in addition to maintaining my own projects, I am also willing to contribute my own strength to open source, such as some translation work.
-
-🔭 I’m currently working on UCloud（a cloud computing company) in Shanghai,China. Mainly responsible for functional development and maintenance of some network products, and at the same time also participate in component development of the team.
-
-🌱 I’m currently learning TypeScript、Scss and some basic knowledge of network!
-
-![Miever1's github stats](https://github-readme-stats.vercel.app/api?username=Miever1&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miever1&show_icons=true&&theme=radical)<img src="https://github.com/Miever1/miever.net/blob/master/src/assets/images/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMiever1%2FMiever1%2F&count_bg=%23F03752&title_bg=%232B73AF&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Visitor+Counts&edge_flat=false)](https://github.com/Miever1/)
-
-### Github Repos
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Miever1&repo=miever_components&show_owner=true)](https://github.com/Miever1/miever_components)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Miever1&repo=miever.net&show_owner=true)](https://github.com/Miever1/miever.net)
+<div>
+  <img align="right" src="https://octodex.github.com/images/dinotocat.png" alt="dinotocat" style="width:282px;" />
+  <p>
+    I’m Sammy Uyghur, Being meticulous in front end development with over 2 years of front-end experience. In GitHub, in addition to maintaining my own projects, I am also willing to contribute my own strength to open source, such as some translation work.
+  </p>
+  <p>
+    🔭 I’m currently working on UCloud（a cloud computing company) in Shanghai,China. Mainly responsible for functional development and maintenance of some network products, and at the same time also participate in component development of the team.
+  </p>
+  <p>
+   🌱 I’m currently learning TypeScript、Scss and some basic knowledge of network!
+  </p>
+</div>
+<div>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Miever1&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
+</div>
 
 ### 👨‍💻 Languages and Tools
 
@@ -36,4 +33,6 @@ I’m Sammy Uyghur, Being meticulous in front end development with over 2 years 
 <p>
 <a href="https://miever.net" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://miever.net-yellow?style=flat&logo=google-chrome&logoColor=red"></a>
 <a href="mailto:miever1@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-miever1@163.com-green?style=flat&logo=gmail&logoColor=violet"></a>
+<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMiever1%2FMiever1%2F&count_bg=%23F03752&title_bg=%232B73AF&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Visitor+Counts&edge_flat=false" />
 </p>
+
