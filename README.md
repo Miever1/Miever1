@@ -5,12 +5,6 @@
   <p>
     I’m Sammy Uyghur, Being meticulous in front end development with over 2 years of front-end experience. In GitHub, in addition to maintaining my own projects, I am also willing to contribute my own strength to open source, such as some translation work.
   </p>
-  <p>
-    🔭 I’m currently working on UCloud（a cloud computing company) in Shanghai,China. Mainly responsible for functional development and maintenance of some network products, and at the same time also participate in component development of the team.
-  </p>
-  <p>
-   🌱 I’m currently learning TypeScript、Scss and some basic knowledge of network!
-  </p>
 </div>
 <div>
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=Miever1&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
