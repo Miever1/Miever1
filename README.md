@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://miever.net/home.png" />
+</div>
+
 ### Welcome to Miever's github 🎉🎉🎉...
 
 <div>
