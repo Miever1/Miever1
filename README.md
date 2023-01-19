@@ -11,7 +11,7 @@
   </p>
 </div>
 <div>
-  <img align="top" src="https://github-readme-stats-ruby-one.vercel.app/api?username=Miever1&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
+  <img align="top" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Miever1&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
 </div>
 
 ### 👨‍💻 Languages and Tools
