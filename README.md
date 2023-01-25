@@ -31,6 +31,7 @@
 <p>
 <a href="https://miever.net" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://miever.net-yellow?style=flat&logo=google-chrome&logoColor=red"></a>
 <a href="mailto:miever1@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-miever1@163.com-green?style=flat&logo=gmail&logoColor=violet"></a>
+<a href="https://rxresu.me/imiever7/miever" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-https://rxresu.me-12aa9c?style=flat&logo=readme&logoColor=#ccc"></a>
 <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMiever1%2FMiever1%2F&count_bg=%23F03752&title_bg=%232B73AF&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Visitor+Counts&edge_flat=false" />
 </p>
 
