@@ -2,7 +2,7 @@
   <img src="https://miever.net/home.png" />
 </div>
 
-### Welcome to Miever's github 🎉🎉🎉...
+### Time forget me, or I forgot to follow, a turn around, is a lifetime.
 
 <div>
   <img align="right" src="https://octodex.github.com/images/dinotocat.png" alt="dinotocat" style="width:282px;" />
