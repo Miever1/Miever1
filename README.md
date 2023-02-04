@@ -2,7 +2,7 @@
   <img src="https://miever.net/home.png" />
 </div>
 
-### Time forget me, or I forgot to follow, a turn around, is a lifetime.
+### Things suck, but that's life.
 
 <div>
   <img align="right" src="https://octodex.github.com/images/dinotocat.png" alt="dinotocat" style="width:282px;" />
