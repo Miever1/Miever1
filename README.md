@@ -2,7 +2,7 @@
   <img src="https://miever.net/home.png" />
 </div>
 
-### Things suck, but that's life.
+### I know that my future is not just a dream.
 
 <div>
   <img align="right" src="https://octodex.github.com/images/dinotocat.png" alt="dinotocat" style="width:282px;" />
