@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://miever.net/home.png" />
+  <img src="https://miever.net/home.webp" />
 </div>
 
 ### I know that my future is not just a dream.
