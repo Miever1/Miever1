@@ -7,7 +7,7 @@
 <div>
   <img align="right" src="https://octodex.github.com/images/dinotocat.png" alt="dinotocat" style="width:282px;" />
   <p>
-    I’m Sammy Uyghur, Being meticulous in front end development with over 2 years of front-end experience. In GitHub, in addition to maintaining my own projects, I am also willing to contribute my own strength to open source, such as some translation work.
+    I’m Aerman, being meticulous in front end development with over 3 years of front-end experience. In GitHub, in addition to maintaining my own projects, I am also willing to contribute my own strength to open source, such as some translation work.
   </p>
 </div>
 <div>
