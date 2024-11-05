@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://miever.net/home.webp" />
+  <img src="https://miever.s3.ap-east-1.amazonaws.com/static/main-logo-big.png" />
 </div>
 
 ### I know that my future is not just a dream.
