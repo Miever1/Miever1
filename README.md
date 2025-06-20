@@ -25,6 +25,10 @@
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/Miever1)](https://github.com/Miever1) 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Miever1)](https://github.com/Miever1) 
 
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?account_id=1849174)
+
 
 ### 🤝🏻 Connect with Me
 
@@ -32,6 +36,14 @@
 <a href="https://miever.net" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://miever.net-yellow?style=flat&logo=google-chrome&logoColor=red"></a>
 <a href="mailto:miever1@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-miever1@163.com-green?style=flat&logo=gmail&logoColor=violet"></a>
 <a href="https://rxresu.me/imiever7/miever" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-https://rxresu.me-12aa9c?style=flat&logo=readme&logoColor=#ccc"></a>
-<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMiever1%2FMiever1%2F&count_bg=%23F03752&title_bg=%232B73AF&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Visitor+Counts&edge_flat=false" />
+<img src="https://komarev.com/ghpvc/?username=Miever1&label=Profile-Views&color=orange&style=flat" alt="Profile Views" />&emsp;
 </p>
+
+<br />
+
+![GitHub Snake Light](https://raw.githubusercontent.com/Miever1/Miever1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Miever1/Miever1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
+
 
