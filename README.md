@@ -1,3 +1,7 @@
+<div align="right">
+  <img align="top" src="https://komarev.com/ghpvc/?username=Miever1&label=Profile-Views&color=blue&style=plastic" alt="Profile Views" />&emsp;
+</div>
+
 <div align="center">
   <img src="https://miever.s3.ap-east-1.amazonaws.com/static/main-logo-big.png" />
 </div>
@@ -25,18 +29,12 @@
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/Miever1)](https://github.com/Miever1) 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Miever1)](https://github.com/Miever1) 
 
-[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
-
-![](https://hit.yhype.me/github/profile?account_id=1849174)
-
-
 ### 🤝🏻 Connect with Me
 
 <p>
 <a href="https://miever.net" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://miever.net-yellow?style=flat&logo=google-chrome&logoColor=red"></a>
 <a href="mailto:miever1@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-miever1@163.com-green?style=flat&logo=gmail&logoColor=violet"></a>
 <a href="https://rxresu.me/imiever7/miever" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-https://rxresu.me-12aa9c?style=flat&logo=readme&logoColor=#ccc"></a>
-<img src="https://komarev.com/ghpvc/?username=Miever1&label=Profile-Views&color=orange&style=flat" alt="Profile Views" />&emsp;
 </p>
 
 <br />
